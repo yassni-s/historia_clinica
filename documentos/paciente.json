@@ -1,0 +1,22 @@
+{
+    "paciente_id": " ",
+    "nombre": " ",
+    "identificacion": "  ",
+    "fecha_nacimiento":" ",
+    "direccion":"",
+    "alergias":[{
+
+        "alergia_id":"",
+        "tipo de alergia":"",
+        "descripcion":""
+    }],
+    "antecedentes_familiares": [
+        {
+        "relacion": "",
+        "condicion": ""
+        }
+    ]
+    }
+
+
+

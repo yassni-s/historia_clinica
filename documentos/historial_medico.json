@@ -1,0 +1,20 @@
+{
+    "historial_medico": {
+    "visitas": [
+        {
+        "fecha": "",
+        "motivo": "",
+        "diagnostico": "",
+        "tratamiento": ""
+        }
+    ],
+    
+    
+    "medicamentos_actuales": [
+        {
+        "nombre": "",
+        "dosis": "",
+        "frecuencia": ""
+        }
+    ]
+    }}
